@@ -1,0 +1,30 @@
+{
+  "name": "Nils Vingren",
+  "headline": {
+    "en": "Finance & management control student · French / Swedish · Master in Management applicant",
+    "fr": ""
+  },
+  "bio": {
+    "en": [
+      "I study the BUT GEA (Finance & Management Control option) at IUT Aix-Marseille, in Gap.",
+      "Between my first and third year I worked at Pfisterer in three countries: one month in Stuttgart, a year in industry in Sheffield, and an internship in Shanghai starting March 2027.",
+      "I am applying to a Master in Management abroad and to the International Finance programme at IAE Aix-Marseille.",
+      "TODO: one sentence on why finance / what you want to do next, in your own words."
+    ],
+    "fr": []
+  },
+  "photo": "assets/nils.webp",
+  "photoAlt": { "en": "Portrait of Nils Vingren", "fr": "Portrait de Nils Vingren" },
+  "cv": {
+    "file": "",
+    "note": "Put the PDF in assets/ (e.g. assets/cv-nils-vingren.pdf) and write that path in 'file'."
+  },
+  "contact": {
+    "email": "",
+    "linkedin": "",
+    "intro": {
+      "en": "TODO: add the email and LinkedIn you want to make public (this repository is public).",
+      "fr": ""
+    }
+  }
+}

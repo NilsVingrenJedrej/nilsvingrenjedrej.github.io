@@ -1,0 +1,70 @@
+[
+  {
+    "id": "shanghai",
+    "status": "upcoming",
+    "company": "Pfisterer Cable Accessories (Shanghai) Co., Ltd",
+    "location": "Shanghai, China",
+    "role": { "en": "TODO: exact job title", "fr": "" },
+    "period": { "en": "March 2027 – July 2027 (confirmed) — TODO: exact dates", "fr": "" },
+    "context": {
+      "en": "Internship in the finance / controlling function of a Pfisterer subsidiary.",
+      "fr": ""
+    },
+    "actions": {
+      "en": [
+        "Planned scope: controlling, company finance, ERP systems, payables, intercompany reconciliations."
+      ],
+      "fr": []
+    },
+    "result": { "en": "Upcoming — no result to report yet.", "fr": "" }
+  },
+  {
+    "id": "sheffield",
+    "status": "done",
+    "company": "PFISTERER CSU UK Ltd",
+    "location": "Sheffield, United Kingdom",
+    "role": { "en": "TODO: exact job title (internship, then year in industry)", "fr": "" },
+    "period": { "en": "2025 – 2026 — TODO: exact start and end dates", "fr": "" },
+    "context": {
+      "en": "A 3-month internship in my second year that was extended into a full year in industry. The company was moving from Microsoft Dynamics NAV to SAP during my time there.",
+      "fr": ""
+    },
+    "actions": {
+      "en": [
+        "Prepared the monthly intercompany reconciliations at month-end and sent them to Group Controlling in Stuttgart.",
+        "Produced reports on customers, sales and products for the external sales team.",
+        "Worked daily in Microsoft Dynamics NAV during the transition to SAP.",
+        "Handled internal sales: quotes, sales orders and purchase orders.",
+        "Supported logistics: arranging shipments and helping in the warehouse."
+      ],
+      "fr": []
+    },
+    "result": {
+      "en": "TODO: add one concrete outcome if you can recover one (manager feedback, an error caught, a process improved, time saved, a reference). Do not leave an adjective here.",
+      "fr": ""
+    }
+  },
+  {
+    "id": "stuttgart",
+    "status": "done",
+    "company": "PFISTERER Contact GmbH",
+    "location": "Stuttgart, Germany",
+    "role": { "en": "Observation internship", "fr": "" },
+    "period": { "en": "1 month, first year of BUT — TODO: exact dates", "fr": "" },
+    "context": {
+      "en": "One-month observation internship at the Pfisterer headquarters.",
+      "fr": ""
+    },
+    "actions": {
+      "en": [
+        "Attended the year-end financial meeting.",
+        "Met and talked with people in different functions: treasury, BI, SAP and others."
+      ],
+      "fr": []
+    },
+    "result": {
+      "en": "Exposure to how a group finance function is organised; first contact with the company that later took me back twice.",
+      "fr": ""
+    }
+  }
+]

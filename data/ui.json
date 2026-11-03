@@ -1,0 +1,39 @@
+{
+  "siteTitle": { "en": "Nils Vingren — Portfolio", "fr": "" },
+  "terminalTitle": { "en": "NILS VINGREN // PORTFOLIO", "fr": "" },
+  "skip": { "en": "Skip to content", "fr": "Aller au contenu" },
+  "langButton": { "en": "FR", "fr": "EN" },
+  "langLabel": { "en": "Passer en français", "fr": "Switch to English" },
+  "loading": { "en": "Loading…", "fr": "Chargement…" },
+  "loadError": {
+    "en": "Could not load the content files. If you opened this page by double-clicking it, run a local server instead (see README). On GitHub Pages this works normally.",
+    "fr": ""
+  },
+  "tabs": {
+    "profile": { "en": "Profile", "fr": "Profil" },
+    "experience": { "en": "Experience", "fr": "Expérience" },
+    "education": { "en": "Education", "fr": "Formation" },
+    "projects": { "en": "Projects", "fr": "Projets" },
+    "skills": { "en": "Skills", "fr": "Compétences" },
+    "contact": { "en": "Contact", "fr": "Contact" }
+  },
+  "labels": {
+    "downloadCv": { "en": "Download CV (PDF)", "fr": "Télécharger le CV (PDF)" },
+    "cvMissing": { "en": "CV (PDF) — not uploaded yet", "fr": "" },
+    "role": { "en": "Role", "fr": "Rôle" },
+    "context": { "en": "Context", "fr": "Contexte" },
+    "myRole": { "en": "My role", "fr": "Mon rôle" },
+    "actions": { "en": "What I did", "fr": "Ce que j'ai fait" },
+    "result": { "en": "Result", "fr": "Résultat" },
+    "tools": { "en": "Tools", "fr": "Outils" },
+    "languages": { "en": "Languages", "fr": "Langues" },
+    "certifications": { "en": "Certifications", "fr": "Certifications" },
+    "places": { "en": "Places", "fr": "Lieux" },
+    "lived": { "en": "Lived", "fr": "Vécu" },
+    "worked": { "en": "Worked", "fr": "Travaillé" },
+    "upcoming": { "en": "Upcoming", "fr": "À venir" },
+    "upcomingTag": { "en": "Upcoming", "fr": "À venir" },
+    "inProgress": { "en": "In progress", "fr": "En cours" },
+    "noCerts": { "en": "No certifications to show yet.", "fr": "" }
+  }
+}

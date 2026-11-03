@@ -1,0 +1,51 @@
+[
+  {
+    "id": "reprise-entreprise",
+    "status": "inProgress",
+    "title": { "en": "Business acquisition analysis (Reprise d'entreprise)", "fr": "" },
+    "period": { "en": "Year 3, BUT GEA — TODO: dates", "fr": "" },
+    "context": {
+      "en": "University project: analyse a company and decide whether it is worth buying for investors.",
+      "fr": ""
+    },
+    "myRole": { "en": "TODO: group size and your part", "fr": "" },
+    "actions": { "en": ["TODO"], "fr": [] },
+    "result": { "en": "In progress.", "fr": "" }
+  },
+  {
+    "id": "banque-de-france",
+    "status": "done",
+    "title": { "en": "Company credit rating (Banque de France case)", "fr": "" },
+    "period": { "en": "BUT GEA — TODO: dates", "fr": "" },
+    "context": {
+      "en": "University project: analyse a company's financial statements and give it a rating, on which banks base a loan decision.",
+      "fr": ""
+    },
+    "myRole": { "en": "TODO: group size and your part", "fr": "" },
+    "actions": { "en": ["TODO"], "fr": [] },
+    "result": { "en": "TODO: rating or recommendation delivered, and feedback if any.", "fr": "" }
+  },
+  {
+    "id": "creation-entreprise",
+    "status": "done",
+    "title": { "en": "Business creation (Création d'entreprise)", "fr": "" },
+    "period": { "en": "BUT GEA — TODO: dates", "fr": "" },
+    "context": { "en": "TODO: describe the project in one or two sentences.", "fr": "" },
+    "myRole": { "en": "TODO", "fr": "" },
+    "actions": { "en": ["TODO"], "fr": [] },
+    "result": { "en": "TODO", "fr": "" }
+  },
+  {
+    "id": "kalypso",
+    "status": "done",
+    "title": { "en": "Company management simulation (Kalypso)", "fr": "" },
+    "period": { "en": "Year 2, BUT GEA — TODO: dates", "fr": "" },
+    "context": {
+      "en": "Simulation in which a team runs a company over several years, deciding marketing spend, stock and investment in an app.",
+      "fr": ""
+    },
+    "myRole": { "en": "TODO", "fr": "" },
+    "actions": { "en": ["TODO"], "fr": [] },
+    "result": { "en": "TODO: final ranking or outcome.", "fr": "" }
+  }
+]

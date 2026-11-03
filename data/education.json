@@ -1,0 +1,38 @@
+[
+  {
+    "id": "but-gea",
+    "school": "IUT Aix-Marseille (Gap campus)",
+    "degree": {
+      "en": "BUT GEA — Finance & Management Control option (GC2F)",
+      "fr": "BUT GEA — parcours Contrôle de gestion et pilotage de la performance financière (GC2F)"
+    },
+    "period": { "en": "2023 – 2027 — TODO: confirm end date", "fr": "" },
+    "details": {
+      "en": [
+        "Includes a one-month internship (year 1), a 3-month internship extended into a year in industry (year 2), and a placement in Shanghai (year 3).",
+        "TODO: grades or ranking, only if you want them shown."
+      ],
+      "fr": []
+    }
+  },
+  {
+    "id": "bac-oib",
+    "school": "Lycée George Duby, Aix-en-Provence",
+    "degree": {
+      "en": "Baccalauréat, OIB (International Option, English)",
+      "fr": "Baccalauréat, option internationale OIB (anglais)"
+    },
+    "period": { "en": "TODO: graduation year and mention, if any", "fr": "" },
+    "details": { "en": [], "fr": [] }
+  },
+  {
+    "id": "rochambeau",
+    "school": "Rochambeau, The French International School, Washington D.C.",
+    "degree": {
+      "en": "Primary school",
+      "fr": "École primaire"
+    },
+    "period": { "en": "2010 – 2015", "fr": "" },
+    "details": { "en": [], "fr": [] }
+  }
+]

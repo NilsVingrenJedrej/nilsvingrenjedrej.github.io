@@ -1,0 +1,49 @@
+{
+  "tools": [
+    {
+      "name": "Microsoft Dynamics NAV",
+      "evidence": { "en": "Used daily at Pfisterer Sheffield (sales and purchase orders, reconciliations) during the move to SAP. TODO: one concrete thing you did with it.", "fr": "" }
+    },
+    {
+      "name": "Excel",
+      "evidence": { "en": "TODO: one concrete thing you built (report, model, workflow).", "fr": "" }
+    },
+    {
+      "name": "Power BI",
+      "evidence": { "en": "TODO: one concrete thing you built.", "fr": "" }
+    },
+    {
+      "name": "Power Query",
+      "evidence": { "en": "TODO: one concrete thing you built.", "fr": "" }
+    }
+  ],
+  "languages": [
+    {
+      "name": { "en": "French", "fr": "Français" },
+      "level": { "en": "Native", "fr": "Langue maternelle" }
+    },
+    {
+      "name": { "en": "English", "fr": "Anglais" },
+      "level": {
+        "en": "Bilingual: OIB baccalauréat, 5 years of school in Washington D.C., a year working in the UK.",
+        "fr": ""
+      }
+    },
+    {
+      "name": { "en": "Swedish", "fr": "Suédois" },
+      "level": { "en": "Fluent spoken and read; limited written.", "fr": "" }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TOEIC",
+      "visible": false,
+      "note": "Hidden until the official score exists. Set visible to true and add 'score' and 'date'."
+    },
+    {
+      "name": "TOEFL",
+      "visible": false,
+      "note": "Hidden until the official score exists. Set visible to true and add 'score' and 'date'."
+    }
+  ]
+}

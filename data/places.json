@@ -1,0 +1,16 @@
+[
+  { "id": "grenoble", "name": "Grenoble, France", "type": "lived", "lat": 45.1885, "lng": 5.7245,
+    "period": { "en": "Born here", "fr": "" } },
+  { "id": "washington", "name": "Washington D.C., USA", "type": "lived", "lat": 38.9072, "lng": -77.0369,
+    "period": { "en": "2010 – 2015", "fr": "" } },
+  { "id": "aix", "name": "Aix-en-Provence, France", "type": "lived", "lat": 43.5297, "lng": 5.4474,
+    "period": { "en": "2015 – 2023", "fr": "" } },
+  { "id": "gap", "name": "Gap, France", "type": "lived", "lat": 44.5594, "lng": 6.0786,
+    "period": { "en": "2023 – 2025 and 2026 – 2027", "fr": "" } },
+  { "id": "stuttgart", "name": "Stuttgart, Germany", "type": "worked", "lat": 48.7758, "lng": 9.1829,
+    "period": { "en": "1-month internship — TODO: dates", "fr": "" } },
+  { "id": "sheffield", "name": "Sheffield, United Kingdom", "type": "worked", "lat": 53.3811, "lng": -1.4701,
+    "period": { "en": "2025 – 2026", "fr": "" } },
+  { "id": "shanghai", "name": "Shanghai, China", "type": "upcoming", "lat": 31.2304, "lng": 121.4737,
+    "period": { "en": "March – July 2027", "fr": "" } }
+]
